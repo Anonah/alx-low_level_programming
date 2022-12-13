@@ -1,7 +1,9 @@
 #include<stdio.h>
-/*Description: function to print a line of statme*/
-/* Return: returns a non negative integer */
-
+/**
+*main - Entry point
+*Description: function to print a line of statme
+*Return: returns a non negative integer
+*/
 int main(void)
 {
 	char msg[] = "\"Programming is like building a multilingual puzzle";
