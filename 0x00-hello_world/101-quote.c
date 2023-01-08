@@ -7,6 +7,7 @@
 */
 int main(void)
 {
-printf(stderr, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
+char given[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+fprintf(stderr, "%s", given);
 return (1);
 }
