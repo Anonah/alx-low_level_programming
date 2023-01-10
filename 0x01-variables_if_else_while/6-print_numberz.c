@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 /**
 *main - entry point
 *Description: print single digit numbers from 10 based numbers using putchar
