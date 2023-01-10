@@ -3,8 +3,8 @@
 #include<time.h>
 /**
 * main - entry point
-* Description : print the last digit of the number stored in the variable
-* Return : non-negative integer
+* Description: print the last digit of the number stored in the variable
+* Return: non-negative integer
 */
 /* more headers goes there */
 /* betty style doc for function main goes there */
@@ -22,7 +22,7 @@ else if (n == 0)
 {
 printf("Last digit of %d is %d and is 0\n", n, n);
 }
-else if((n < 0) && (n != 0))
+else if ((n < 0) && (n != 0))
 {
 printf("Last digit of %d is %d and is less than 6 and not 0\n", n, n);
 }
