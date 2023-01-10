@@ -2,7 +2,7 @@
 /**
 * main - entry point
 * Description : print alphabet in lower case in ascending order
-* Return : zero returns
+* Return: non-zero returns  0
 */
 int main(void)
 {
